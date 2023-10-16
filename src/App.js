@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Checkbox from "./checkbox";
-import './App.css';
+//import './App.css';
 
 const Todo = () => {
   const [task, setTask] = useState({
